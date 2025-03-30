@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media-hosting.imagekit.io/0c51c9a180c84cfb/Designer.jpeg?Expires=1837904598&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=dkuaupwLklng9bcPvJQwVCin9r0s3E0MnGd6dMxiPbsq~tDtl~KcrxsU-UV7UNbZsps421pOd0HRL3bjD0FbJtuOFtMIltiK8HSWxJ4NhmK1p1qfQQQrJzxiPvc9sKgLt64U8LlH5oLiXnKOfkrjP0xzjSzct3SD-HlFJPQtIkIPDXndQoBvenZsXSWZhsR1~FtoxQ-zETeqdLEpWTcmw8e8j8ZKb0-v~oaXAkk7tyPMjJhFnk2yeAKhxSfYmXozlYpNf1lxTUDGzgpSJfAi~uJy4IUjyKU7oVDFqcZf7S010CBZenvZYremkGYxTT6gYidF-N9mo1jTUyYH2jrZZQ__" alt="LeoLakshman's Profile Picture" width="150" style="border-radius: 50%;">
   <h1>Hi there 👋, I'm Leo Lakshman</h1>
-  <p>A passionate developer and researcher exploring the intersection of [mention your primary areas of interest, e.g., visualization, operating systems, data interaction]. Currently a PhD candidate at TTU, I enjoy building interactive tools and diving into the intricacies of computer science.</p>
+  <p>A passionate developer and researcher exploring the intersection of visualization, operating systems, data interaction. Currently a MS CS candidate at TTU, I enjoy building interactive tools and diving into the intricacies of computer science.</p>
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 * Completing my PhD research at TTU.
 * Building interactive data visualization tools.
-* Exploring advanced concepts in [mention a specific area, e.g., human-computer interaction, distributed systems].
+* Exploring advanced concepts in human-computer interaction, distributed systems.
 
 ## 🌱 My Projects at a Glance
 
@@ -25,9 +25,9 @@ Here's a quick overview of some of my highlighted projects:
 
 ## 🛠️ Technologies I Enjoy Working With
 
-* **Languages:** JavaScript, HTML, CSS, Python
-* **Libraries & Frameworks:** [Mention specific ones you use, e.g., React, Vue.js, Node.js, Globe.gl, any Python libraries for visualization or data analysis]
-* **Tools:** Git, [Mention other relevant tools, e.g., VS Code, specific IDEs]
+* **Languages:** JavaScript, HTML, CSS, Python, SQL
+* **Libraries & Frameworks:** React, Vue.js, Node.js, Globe.gl, any Python libraries for visualization or data analysis
+* **Tools:** Git, Git, Visual Studio Code
 
 ## 🎓 Education
 
@@ -35,13 +35,11 @@ Here's a quick overview of some of my highlighted projects:
 
 ## 📫 Let's Connect!
 
-* [Your LinkedIn Profile URL (Optional)]
-* [Your Twitter Profile URL (Optional)]
-* [Your Email Address (Optional)]
+* https://www.linkedin.com/in/lakshmanp31/
 
 ## ✨ Fun Fact
 
-[Share a brief, interesting fact about yourself, related to tech or otherwise!]
+When I'm not coding or researching, you can often find me planning my next trekking adventure. There's nothing quite like reaching a scenic viewpoint after a challenging climb – it's like debugging code, but with better views!
 
 ---
 
