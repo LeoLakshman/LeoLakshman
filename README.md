@@ -26,12 +26,12 @@ Here's a quick overview of some of my highlighted projects:
 ## 🛠️ Technologies I Enjoy Working With
 
 * **Languages:** JavaScript, HTML, CSS, Python, SQL
-* **Libraries & Frameworks:** React, Vue.js, Node.js, Globe.gl, any Python libraries for visualization or data analysis
-* **Tools:** Git, Git, Visual Studio Code
+* **Libraries & Frameworks:** PowerBI, React, Globe.gl, any Python libraries for visualization or data analysis
+* **Tools:** Git, Visual Studio Code
 
 ## 🎓 Education
 
-* **PhD Candidate in Computer Science**, Texas Tech University (TTU)
+* **Masters in Computer Science**, Texas Tech University (TTU)
 
 ## 📫 Let's Connect!
 
