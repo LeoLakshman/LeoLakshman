@@ -8,7 +8,7 @@
 
 ## 🔭 What I'm Currently Focused On
 
-* Completing my Masters in Computer Science at TTU.
+* Completing my Masters in Computer Science at TTU. 
 * Building interactive data visualization tools.
 * Exploring advanced concepts in human-computer interaction, distributed systems.
 
