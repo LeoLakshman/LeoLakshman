@@ -6,7 +6,7 @@
 
 ---
 
-## 🔭 What I'm Currently Focused On
+## 🔭 What I'm Currently Focused On 
 
 * Completing my Masters in Computer Science at TTU. 
 * Building interactive data visualization tools.
