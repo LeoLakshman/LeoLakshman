@@ -4,7 +4,7 @@
   <p>A passionate developer and researcher exploring the intersection of visualization, operating systems, data interaction. Currently a MS CS candidate at TTU, I enjoy building interactive tools and diving into the intricacies of computer science.</p>
 </div>
 
----
+--- 
 
 ## 🔭 What I'm Currently Focused On 
 
