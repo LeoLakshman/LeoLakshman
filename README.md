@@ -5,7 +5,7 @@
 </div>
 
 --- 
-
+ 
 ## 🔭 What I'm Currently Focused On 
 
 * Completing my Masters in Computer Science at TTU. 
