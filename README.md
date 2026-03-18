@@ -1,8 +1,21 @@
 <div align="center">
-  <img width="8333" height="8333" alt="image" src="https://github.com/user-attachments/assets/530849e7-a8cb-4714-ac9f-f54f3d3b0452" />
-" alt="LeoLakshman's Profile Picture" width="150" style="border-radius: 50%;">
+  <img
+    src="https://github.com/user-attachments/assets/530849e7-a8cb-4714-ac9f-f54f3d3b0452"
+    alt="Leo Lakshman's Profile Picture"
+    width="150"
+    style="border-radius: 50%;"
+  />
+
   <h1>Hi there 👋, I'm Leo Lakshman</h1>
-  <p>A passionate developer and researcher exploring the intersection of visualization, operating systems, data interaction. Currently a MS CS candidate at TTU, I enjoy building interactive tools and diving into the intricacies of computer science.</p>
+
+  <p>
+    A passionate <b>developer</b> and <b>research‑driven engineer</b> exploring the
+    intersection of <b>visualization</b>, <b>operating systems</b>, and
+    <b>data interaction</b>.
+    Currently pursuing an <b>MS in Computer Science at Texas Tech University</b>.
+    I enjoy building interactive tools, working close to systems, and diving deep
+    into the core principles of computer science.
+  </p>
 </div>
 
 --- 
