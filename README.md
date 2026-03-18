@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media-hosting.imagekit.io/0c51c9a180c84cfb/Designer.jpeg?Expires=1837904598&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=dkuaupwLklng9bcPvJQwVCin9r0s3E0MnGd6dMxiPbsq~tDtl~KcrxsU-UV7UNbZsps421pOd0HRL3bjD0FbJtuOFtMIltiK8HSWxJ4NhmK1p1qfQQQrJzxiPvc9sKgLt64U8LlH5oLiXnKOfkrjP0xzjSzct3SD-HlFJPQtIkIPDXndQoBvenZsXSWZhsR1~FtoxQ-zETeqdLEpWTcmw8e8j8ZKb0-v~oaXAkk7tyPMjJhFnk2yeAKhxSfYmXozlYpNf1lxTUDGzgpSJfAi~uJy4IUjyKU7oVDFqcZf7S010CBZenvZYremkGYxTT6gYidF-N9mo1jTUyYH2jrZZQ__" alt="LeoLakshman's Profile Picture" width="150" style="border-radius: 50%;">
+  <img width="8333" height="8333" alt="image" src="https://github.com/user-attachments/assets/530849e7-a8cb-4714-ac9f-f54f3d3b0452" />
+" alt="LeoLakshman's Profile Picture" width="150" style="border-radius: 50%;">
   <h1>Hi there 👋, I'm Leo Lakshman</h1>
   <p>A passionate developer and researcher exploring the intersection of visualization, operating systems, data interaction. Currently a MS CS candidate at TTU, I enjoy building interactive tools and diving into the intricacies of computer science.</p>
 </div>
