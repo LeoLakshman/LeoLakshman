@@ -6,7 +6,7 @@
     style="border-radius: 50%;"
   />
 
-  <h1>Hi there 👋, I'm Leo Lakshman</h1>
+  <h1>Hi there 👋, I'm Leo Lakshman</h1> 
 
   <p>
     A passionate <b>developer</b> and <b>research‑driven engineer</b> exploring the
