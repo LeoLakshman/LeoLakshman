@@ -11,7 +11,7 @@
   <p>
     A passionate <b>developer</b> and <b>research‑driven engineer</b> exploring the
     intersection of <b>visualization</b>, <b>operating systems</b>, and
-    <b>data interaction</b>.
+    <b>data interaction</b>. 
     Currently pursuing an <b>MS in Computer Science at Texas Tech University</b>.
     I enjoy building interactive tools, working close to systems, and diving deep
     into the core principles of computer science.
