@@ -9,7 +9,7 @@
   <h1>Hi there 👋, I'm Leo Lakshman</h1> 
    
   <p>
-    A passionate <b>developer</b> and <b>research‑driven engineer</b> exploring the
+    A passionate <b>developer</b> and <b>research‑driven engineer</b> exploring the 
     intersection of <b>visualization</b>, <b>operating systems</b>, and
     <b>data interaction</b>. 
     Currently pursuing an <b>MS in Computer Science at Texas Tech University</b>.
